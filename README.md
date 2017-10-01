@@ -1,15 +1,20 @@
 # Look and feel settings
 *Prerequisites*
+
 Ubuntu 16.04
+
 *Install*
-1. Ubuntu tweak tool using command: 'sudo apt-get install ubuntu-tweak';
+1. Ubuntu tweak tool using command: `sudo apt-get install ubuntu-tweak`;
 2. Install [arc-theme](http://www.noobslab.com/2017/01/arc-theme-light-dark-versions-and-arc.html) using commands:
- - sudo add-apt-repository ppa:noobslab/themes
- - sudo apt-get update
- - sudo apt-get install arc-theme
- - sudo add-apt-repository ppa:noobslab/icons
- - sudo apt-get update
- - sudo apt-get install arc-icons
+ - `sudo add-apt-repository ppa:noobslab/themes`
+ - `sudo apt-get update`
+ - `sudo apt-get install arc-theme`
+ - `sudo add-apt-repository ppa:noobslab/icons`
+ - `sudo apt-get update`
+ - `sudo apt-get install arc-icons`
+3. Launch tweak tool via unity launcher;
+4. Click on "Appearance" on the left side bar;
+5. Switch on Global Dark Theme, select "Adwaita" in a field "GTK+", select "Ubuntu-mono-dark" in a field "Icons".
 
 ## Welcome to GitHub Pages
 
