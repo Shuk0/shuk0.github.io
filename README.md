@@ -1,3 +1,16 @@
+# Look and feel settings
+*Prerequisites*
+Ubuntu 16.04
+*Install*
+1. Ubuntu tweak tool using command: 'sudo apt-get install ubuntu-tweak';
+2. Install [arc-theme](http://www.noobslab.com/2017/01/arc-theme-light-dark-versions-and-arc.html) using commands:
+ - sudo add-apt-repository ppa:noobslab/themes
+ - sudo apt-get update
+ - sudo apt-get install arc-theme
+ - sudo add-apt-repository ppa:noobslab/icons
+ - sudo apt-get update
+ - sudo apt-get install arc-icons
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Shuk0/shuk0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
