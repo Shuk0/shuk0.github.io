@@ -1,7 +1,7 @@
 # Look and feel settings
 *Prerequisites*
 
-Ubuntu 16.04
+Ubuntu 16.04, Eclipse Neon.3
 
 *Install*
 1. Ubuntu tweak tool using command: `sudo apt-get install ubuntu-tweak`;
@@ -14,7 +14,8 @@ Ubuntu 16.04
  - `sudo apt-get install arc-icons`
 3. Launch tweak tool via unity launcher;
 4. Click on "Appearance" on the left side bar;
-5. Switch on Global Dark Theme, select "Adwaita" in a field "GTK+", select "Ubuntu-mono-dark" in a field "Icons".
+5. Switch on Global Dark Theme, select "Adwaita" in a field "GTK+", select "Ubuntu-mono-dark" in a field "Icons";
+6. Start Eclipse. Install [Darkest Dark theme](https://www.genuitec.com/tech/darkest-dark/), install [Eclipse Color Theme](http://www.eclipsecolorthemes.org).
 
 ## Welcome to GitHub Pages
 
